@@ -1,17 +1,16 @@
 # Hello, I'm Irina :wave::woman:
-![Фон](https://i.pinimg.com/564x/32/3d/2b/323d2b034a152f43095335378689d69f.jpg)
+![Фон](https://giannantonionegretti.com/wp-content/uploads/2020/07/shutterstock_1505500757-ok-1024x640.jpg)
+# My CV
+____
 
-<!--
-**VergyQA/VergyQA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#Tools
+____
 
-Here are some ideas to get you started:
+#Language
+____
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#Testing documentation
+____
+
+#My links
+____
