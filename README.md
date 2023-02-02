@@ -1,5 +1,5 @@
-# Hi there!  :wave::woman:
-https://img.shields.io/github/last-commit/VergyQA/VergyQA https://img.shields.io/weblate/projects?server=https%3A%2F%2Fgithub.com%2FVergyQA
+# Приветствую!
+https://img.shields.io/badge/JavaScript-learning-green
 # My CV
 ____
 
