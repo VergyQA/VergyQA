@@ -1,16 +1,16 @@
-# Hello, I'm Irina :wave::woman:
-![Фон](https://giannantonionegretti.com/wp-content/uploads/2020/07/shutterstock_1505500757-ok-1024x640.jpg)
+# Hi there!  :wave::woman:
+https://img.shields.io/github/last-commit/VergyQA/VergyQA https://img.shields.io/weblate/projects?server=https%3A%2F%2Fgithub.com%2FVergyQA
 # My CV
 ____
 
-#Tools
+# Tools
 ____
 
-#Language
+# Language
 ____
 
-#Testing documentation
+# Testing documentation
 ____
 
-#My links
+# My links
 ____
