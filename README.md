@@ -42,7 +42,7 @@
 * обучение в RedRover.school основам автоматизации тестирования
 
 # Мое CV
-[Резюме](https://drive.google.com/file/d/1WAmom-GQ_Waf6a62uX59fmPoxdsclY3A/view?usp=sharing)
+[Резюме](https://drive.google.com/file/d/1sEsbuGNIEJzo16hHgVIzwUQ2JHwV3jSY/view?usp=sharing)
 
 # Примеры моих работ
 ### Тестовая документация
