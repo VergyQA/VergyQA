@@ -72,6 +72,6 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](http://t.me/VergyQA)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg' alt='vk' height='40'>](https://vk.com/irinaqa)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VergyQA&show_icons=true) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=VergyQA&show_icons=true) [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64cd6ab10d755ccbebdc2434?variant=dark)](https://roadmap.sh)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=VergyQA)](https://github.com/ryo-ma/github-profile-trophy)
